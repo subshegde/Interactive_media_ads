@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:interactive_media_ads_demo/ads/provider/adProvider.dart';
+import 'package:interactive_media_ads_demo/with_provider/ads/provider/adProvider.dart';
 import 'package:provider/provider.dart';
 import 'package:video_player/video_player.dart';
 
